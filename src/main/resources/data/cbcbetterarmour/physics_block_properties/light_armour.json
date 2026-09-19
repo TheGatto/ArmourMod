@@ -1,0 +1,6 @@
+{
+  "selector": "#cbcbetterarmour:light_armour",
+  "properties": {
+    "sable:mass": 0.5
+  }
+}

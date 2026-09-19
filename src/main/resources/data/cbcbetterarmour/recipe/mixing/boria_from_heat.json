@@ -1,0 +1,26 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "cbcbetterarmour:borax"
+    },
+    {
+      "item": "cbcbetterarmour:borax"
+    },
+    {
+      "item": "cbcbetterarmour:borax"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 100,
+      "fluid": "createplenty:sulfuric_acid"
+    }
+  ],
+  "results": [
+    {
+      "id": "cbcbetterarmour:boria",
+      "count": 3
+    }
+  ]
+}

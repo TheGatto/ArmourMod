@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "createbigcannons:steel_ingot"
+    },
+    "B": {
+      "item": "cbcbetterarmour:boron_carbide"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "BBB",
+    "ABA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cbcbetterarmour:boron_carbide_composite_armour_block"
+  }
+
+}

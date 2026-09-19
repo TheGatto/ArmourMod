@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "cbcbetterarmour:block/boron_carbide_composite_armour_block"
+  }
+}

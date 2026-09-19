@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cbcbetterarmour:borax_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "cbcbetterarmour:borax"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:ice"
+    },
+    {
+      "item": "createdieselgenerators:wood_chip"
+    },
+    {
+      "item": "createdieselgenerators:wood_chip"
+    },
+    {
+      "item": "createdieselgenerators:wood_chip"
+    },
+    {
+      "item": "createdieselgenerators:wood_chip"
+    },
+    {
+      "item": "createdieselgenerators:wood_chip"
+    }
+  ],
+  "results": [
+    {
+      "id": "cbcbetterarmour:pykrete",
+      "count": 1
+    }
+  ]
+}
