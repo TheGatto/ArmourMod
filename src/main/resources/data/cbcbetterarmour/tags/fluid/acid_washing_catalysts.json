@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "createplenty:sulfuric_acid",
+      "required": false
+    },
+    {
+      "id": "createplenty:flowing_sulfuric_acid",
+      "required": false
+    }
+  ]
+}

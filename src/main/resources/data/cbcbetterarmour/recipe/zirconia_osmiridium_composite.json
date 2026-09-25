@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "cbcbetterarmour:boron_carbide_composite_armour_block"
+    },
+    "O": {
+      "item": "cbcbetterarmour:osmiridium_ingot"
+    },
+    "Z": {
+      "item": "cbcbetterarmour:zircon"
+    }
+  },
+  "pattern": [
+    "OZO",
+    "ZAZ",
+    "OZO"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cbcbetterarmour:zirconia_osmiridium_composite"
+  }
+}

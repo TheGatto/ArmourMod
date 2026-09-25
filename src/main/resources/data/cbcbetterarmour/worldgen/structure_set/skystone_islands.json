@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1837462911,
+    "separation": 24,
+    "spacing": 48
+  },
+  "structures": [
+    {
+      "structure": "cbcbetterarmour:skystone_island",
+      "weight": 1
+    }
+  ]
+}

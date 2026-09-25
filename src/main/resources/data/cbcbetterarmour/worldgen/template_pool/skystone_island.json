@@ -1,0 +1,41 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cbcbetterarmour:skystone_island",
+        "processors": "cbcbetterarmour:skystone_island",
+        "projection": "rigid"
+      },
+      "weight": 3
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cbcbetterarmour:skystone_island_eroded",
+        "processors": "cbcbetterarmour:skystone_island",
+        "projection": "rigid"
+      },
+      "weight": 3
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cbcbetterarmour:skystone_island_spire",
+        "processors": "cbcbetterarmour:skystone_island",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cbcbetterarmour:skystone_island_barren",
+        "processors": "cbcbetterarmour:skystone_island",
+        "projection": "rigid"
+      },
+      "weight": 2
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

@@ -1,0 +1,6 @@
+{
+  "selector": "#cbcbetterarmour:reinforced_steel_plate",
+  "properties": {
+    "sable:mass": 2.0
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "selector": "#cbcbetterarmour:nested_carbyne_plate",
+  "properties": {
+    "sable:mass": 1.2
+  }
+}

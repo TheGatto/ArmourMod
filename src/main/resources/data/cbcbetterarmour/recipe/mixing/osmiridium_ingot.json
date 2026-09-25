@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "superheated",
+  "ingredients": [
+    {
+      "item": "cbcbetterarmour:osmium_ingot"
+    },
+    {
+      "item": "cbcbetterarmour:iridium_ingot"
+    }
+  ],
+  "results": [
+    {
+      "id": "cbcbetterarmour:osmiridium_ingot",
+      "count": 1
+    }
+  ]
+}

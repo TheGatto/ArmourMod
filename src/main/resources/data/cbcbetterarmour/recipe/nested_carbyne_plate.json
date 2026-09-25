@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "cbcbetterarmour:boron_carbide_composite_armour_block"
+    },
+    "B": {
+      "item": "cbcbetterarmour:boron_carbide"
+    },
+    "C": {
+      "item": "cbcbetterarmour:carbyne_sheet"
+    }
+  },
+  "pattern": [
+    "CBC",
+    "BAB",
+    "CBC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cbcbetterarmour:nested_carbyne_plate"
+  }
+}

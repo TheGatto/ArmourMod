@@ -1,0 +1,29 @@
+{
+  "type": "cbcbetterarmour:acid_washing",
+  "ingredients": [
+    {
+      "item": "cbcbetterarmour:mysterious_ore"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.55,
+      "id": "cbcbetterarmour:zircon"
+    },
+    {
+      "chance": 0.2,
+      "id": "cbcbetterarmour:zircon"
+    },
+    {
+      "id": "cbcbetterarmour:iridium_nugget"
+    },
+    {
+      "chance": 0.15,
+      "id": "cbcbetterarmour:iridium_nugget"
+    },
+    {
+      "chance": 0.65,
+      "id": "cbcbetterarmour:osmium_nugget"
+    }
+  ]
+}

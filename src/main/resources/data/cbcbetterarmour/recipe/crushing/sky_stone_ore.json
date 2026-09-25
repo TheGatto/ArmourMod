@@ -1,0 +1,31 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "cbcbetterarmour:sky_stone_ore"
+    }
+  ],
+  "processing_time": 350,
+  "results": [
+    {
+      "count": 4,
+      "id": "cbcbetterarmour:mysterious_ore"
+    },
+    {
+      "chance": 0.5,
+      "id": "cbcbetterarmour:mysterious_ore"
+    },
+    {
+      "chance": 0.5,
+      "id": "cbcbetterarmour:mysterious_ore"
+    },
+    {
+      "chance": 0.5,
+      "id": "cbcbetterarmour:mysterious_ore"
+    },
+    {
+      "chance": 0.5,
+      "id": "cbcbetterarmour:mysterious_ore"
+    }
+  ]
+}

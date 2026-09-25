@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "cbcbetterarmour:sky_stone"
+    }
+  ],
+  "processing_time": 350,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:gravel"
+    },
+    {
+      "chance": 0.15,
+      "id": "cbcbetterarmour:mysterious_ore"
+    },
+    {
+      "chance": 0.05,
+      "id": "cbcbetterarmour:mysterious_ore"
+    }
+  ]
+}

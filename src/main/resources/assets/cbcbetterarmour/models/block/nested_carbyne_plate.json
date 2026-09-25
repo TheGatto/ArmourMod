@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "cbcbetterarmour:block/nested_carbyne_plate"
+  }
+}

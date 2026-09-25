@@ -1,0 +1,27 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "superheated",
+  "ingredients": [
+    {
+      "item": "cbcbetterarmour:carbon_fibre"
+    },
+    {
+      "item": "cbcbetterarmour:carbon_fibre"
+    },
+    {
+      "item": "cbcbetterarmour:carbon_fibre"
+    },
+    {
+      "item": "cbcbetterarmour:carbon_fibre"
+    },
+    {
+      "item": "cbcbetterarmour:zircon"
+    }
+  ],
+  "results": [
+    {
+      "id": "cbcbetterarmour:carbyne_sheet",
+      "count": 1
+    }
+  ]
+}

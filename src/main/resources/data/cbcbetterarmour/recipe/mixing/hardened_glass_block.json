@@ -1,0 +1,27 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:glass"
+    },
+    {
+      "item": "minecraft:glass"
+    },
+    {
+      "item": "minecraft:glass"
+    },
+    {
+      "item": "minecraft:glass"
+    },
+    {
+      "item": "cbcbetterarmour:boron_carbide"
+    }
+  ],
+  "results": [
+    {
+      "id": "cbcbetterarmour:hardened_glass_block",
+      "count": 4
+    }
+  ]
+}
