@@ -29,9 +29,17 @@ public class ModBlocks {
             () -> new Block(BlockBehaviour.Properties.of().strength(5f).explosionResistance(30f).requiresCorrectToolForDrops().sound(SoundType.NETHERITE_BLOCK)));
     public static final DeferredBlock<Block> BORON_CARBIDE_COMPOSITE_ARMOUR_FOREST_BLOCK = registerBlock("boron_carbide_composite_armour_forest_block",
             () -> new Block(BlockBehaviour.Properties.of().strength(5f).explosionResistance(30f).requiresCorrectToolForDrops().sound(SoundType.NETHERITE_BLOCK)));
+    public static final DeferredBlock<Block> REINFORCED_STEEL_PLATE = registerBlock("reinforced_steel_plate",
+            () -> new Block(BlockBehaviour.Properties.of().strength(5f).explosionResistance(20f).requiresCorrectToolForDrops().sound(SoundType.NETHERITE_BLOCK)));
+    public static final DeferredBlock<Block> ZIRCONIA_OSMIRIDIUM_COMPOSITE = registerBlock("zirconia_osmiridium_composite",
+            () -> new Block(BlockBehaviour.Properties.of().strength(5f).explosionResistance(60f).requiresCorrectToolForDrops().sound(SoundType.NETHERITE_BLOCK)));
+    public static final DeferredBlock<Block> NESTED_CARBYNE_PLATE = registerBlock("nested_carbyne_plate",
+            () -> new Block(BlockBehaviour.Properties.of().strength(5f).explosionResistance(45f).requiresCorrectToolForDrops().sound(SoundType.NETHERITE_BLOCK)));
     public static final DeferredBlock<Block> PYKRETE = registerBlock("pykrete",
             () -> new Block(BlockBehaviour.Properties.of().strength(1.5f).explosionResistance(12f).sound(SoundType.GLASS)));
     public static final DeferredBlock<Block> SKY_STONE = registerBlock("sky_stone",
+            () -> new Block(BlockBehaviour.Properties.of().strength(3f).explosionResistance(6f).sound(SoundType.DRIPSTONE_BLOCK).requiresCorrectToolForDrops()));
+    public static final DeferredBlock<Block> SKY_STONE_ORE = registerBlock("sky_stone_ore",
             () -> new Block(BlockBehaviour.Properties.of().strength(3f).explosionResistance(6f).sound(SoundType.DRIPSTONE_BLOCK).requiresCorrectToolForDrops()));
 
     private static <T extends Block> DeferredBlock<T> registerBlock(String name, Supplier<T> block) {

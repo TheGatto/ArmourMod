@@ -5,6 +5,9 @@
     "cbcbetterarmour:boron_carbide_composite_armour_block",
     "cbcbetterarmour:boron_carbide_composite_armour_dune_block",
     "cbcbetterarmour:boron_carbide_composite_armour_forest_block",
-    "cbcbetterarmour:sky_stone"
+    "cbcbetterarmour:sky_stone",
+    "cbcbetterarmour:sky_stone_ore",
+    "cbcbetterarmour:zirconia_osmiridium_composite",
+    "cbcbetterarmour:nested_carbyne_plate"
   ]
 }

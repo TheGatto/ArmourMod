@@ -22,14 +22,30 @@ public class ModCreativeModeTab {
                         output.accept(ModItems.BORAX);
                         output.accept(ModItems.BORIA);
                         output.accept(ModItems.BORON_CARBIDE);
+                        output.accept(ModItems.CARBON_FIBRE);
+                        output.accept(ModItems.DYE_TUBE);
+                        output.accept(ModItems.DYE_TUBE_YELLOW);
+                        output.accept(ModItems.DYE_TUBE_GREEN);
+                        output.accept(ModItems.IRIDIUM_INGOT);
+                        output.accept(ModItems.IRIDIUM_NUGGET);
+                        output.accept(ModItems.OSMIUM_INGOT);
+                        output.accept(ModItems.OSMIUM_NUGGET);
+                        output.accept(ModItems.OSMIRIDIUM_INGOT);
+                        output.accept(ModItems.CARBYNE_SHEET);
+                        output.accept(ModItems.ZIRCON);
+                        output.accept(ModItems.MYSTERIOUS_ORE);
                         output.accept(ModBlocks.BORAX_BLOCK);
                         output.accept(ModBlocks.SKY_STONE);
+                        output.accept(ModBlocks.SKY_STONE_ORE);
                         output.accept(ModBlocks.BORON_CARBIDE_BLOCK);
                         output.accept(ModBlocks.HARDENED_GLASS_BLOCK);
                         output.accept(ModBlocks.PYKRETE);
                         output.accept(ModBlocks.BORON_CARBIDE_COMPOSITE_ARMOUR_BLOCK);
                         output.accept(ModBlocks.BORON_CARBIDE_COMPOSITE_ARMOUR_DUNE_BLOCK);
                         output.accept(ModBlocks.BORON_CARBIDE_COMPOSITE_ARMOUR_FOREST_BLOCK);
+                        output.accept(ModBlocks.REINFORCED_STEEL_PLATE);
+                        output.accept(ModBlocks.ZIRCONIA_OSMIRIDIUM_COMPOSITE);
+                        output.accept(ModBlocks.NESTED_CARBYNE_PLATE);
 
                     }).build());
 
